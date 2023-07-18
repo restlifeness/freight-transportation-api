@@ -1,0 +1,12 @@
+
+uvicorn==0.23.0
+fastapi==0.100.0
+
+tortoise-orm==0.19
+aerich==0.7.1
+asyncpg==0.27.0
+
+email-validator==2.0.0
+pyjwt==2.7.0
+Werkzeug==2.3.6
+python-multipart==0.0.6
