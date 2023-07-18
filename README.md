@@ -3,7 +3,7 @@
 ## General
 Проект представляет собой полноценное приложение для грузоперевозок, которое отклоняется от тестового задания. Это приложение обеспечивает основной жизненный цикл заказа на грузоперевозку, как показано ниже:
 
-![freight_order_life_cycle_page-0001](https://github.com/restlifeness/freight-transportation-api/assets/134733009/f2b48a18-c633-43de-8e5d-983bbf08e8e4)
+![freight_order_life_cycle_page-0001](https://github.com/restlifeness/freight-transportation-api/assets/134733009/d5ec4819-d6fa-48e7-bf2e-53d82f73e97c)
 
 Приложение следует архитектуре REST API, с каждой конечной точкой предоставляющей доступ к определенной сущности. Отношения между сущностями выражаются через подмножества, как показано в `@orders_router.get("users/{user_id}/orders")`.
 
